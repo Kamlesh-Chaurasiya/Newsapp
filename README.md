@@ -1,3 +1,3 @@
 # Newsapp
 
-Autor Kamlesh Chaurasiya
+Author Kamlesh Chaurasiya
